@@ -5,4 +5,4 @@ Currently obsessed with pure functional programming and Haskell 💜
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomocavalieri&layout=compact&hide=javascript,html,scss,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomocavalieri&layout=compact&hide=javascript,html,scss,css,tex)](https://github.com/anuraghazra/github-readme-stats)
