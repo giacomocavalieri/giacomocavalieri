@@ -1,5 +1,5 @@
-# Hello 👋
+# Hello there 👋
 
-I'm Giacomo, a Computer Science graduate at Università di Bologna.
+I'm Giacomo, I love functional programming and learning new things!
 
-I love functional programming and learning new things! Currently obsessed with [Gleam](https://gleam.run) 💜
+[@gleam-lang](https://github.com/gleam-lang) core team member 💕
